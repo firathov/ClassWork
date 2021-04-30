@@ -1,0 +1,12 @@
+/Users/firat/Projects/Love-task/Love-task/bin/Debug/netcoreapp3.1/Love-task.deps.json
+/Users/firat/Projects/Love-task/Love-task/bin/Debug/netcoreapp3.1/Love-task.runtimeconfig.json
+/Users/firat/Projects/Love-task/Love-task/bin/Debug/netcoreapp3.1/Love-task.runtimeconfig.dev.json
+/Users/firat/Projects/Love-task/Love-task/bin/Debug/netcoreapp3.1/Love-task.dll
+/Users/firat/Projects/Love-task/Love-task/bin/Debug/netcoreapp3.1/Love-task.pdb
+/Users/firat/Projects/Love-task/Love-task/obj/Debug/netcoreapp3.1/Love-task.csprojAssemblyReference.cache
+/Users/firat/Projects/Love-task/Love-task/obj/Debug/netcoreapp3.1/Love-task.AssemblyInfoInputs.cache
+/Users/firat/Projects/Love-task/Love-task/obj/Debug/netcoreapp3.1/Love-task.AssemblyInfo.cs
+/Users/firat/Projects/Love-task/Love-task/obj/Debug/netcoreapp3.1/Love-task.csproj.CoreCompileInputs.cache
+/Users/firat/Projects/Love-task/Love-task/obj/Debug/netcoreapp3.1/Love-task.dll
+/Users/firat/Projects/Love-task/Love-task/obj/Debug/netcoreapp3.1/Love-task.pdb
+/Users/firat/Projects/Love-task/Love-task/obj/Debug/netcoreapp3.1/Love-task.genruntimeconfig.cache
